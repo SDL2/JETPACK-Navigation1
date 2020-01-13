@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JETPACK Navigation1</string>
+
+    <!-- TODO: 7 setting strings the right way  -->
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_c">Fragment C</string>
+
+</resources>
